@@ -1,0 +1,16 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Newton",
+            "century": "17th century",
+            "desc": "the great English scientists"
+        },
+        {
+            "id": 2,
+            "name": "Einstein",
+            "century": "20th century",
+            "desc": "German genius"
+        }
+    ]
+}
